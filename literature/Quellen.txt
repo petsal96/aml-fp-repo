@@ -1,2 +1,3 @@
 https://pyimagesearch.com/2022/06/29/semantic-vs-instance-vs-panoptic-segmentation/
 https://www.upgrad.com/blog/image-segmentation-techniques/
+https://machinelearningmastery.com/weight-initialization-for-deep-learning-neural-networks/
