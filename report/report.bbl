@@ -1,0 +1,160 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{ataman}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=4eca454067f21294aa3d112a3c778b47}{%
+           family={Ataman},
+           familyi={A\bibinitperiod},
+           given={Kaan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=628f3831a8a99de2c064a36e3cc5aded}{%
+           family={Street},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi Nick},
+           giveni={W\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=f4db9373a5ba3555eac8a45bcd339479}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{420c938e15664d5f2c9f55a299500586}
+      \strng{fullhash}{420c938e15664d5f2c9f55a299500586}
+      \strng{bibnamehash}{420c938e15664d5f2c9f55a299500586}
+      \strng{authorbibnamehash}{420c938e15664d5f2c9f55a299500586}
+      \strng{authornamehash}{420c938e15664d5f2c9f55a299500586}
+      \strng{authorfullhash}{420c938e15664d5f2c9f55a299500586}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The 2006 IEEE International Joint Conference on Neural Network Proceedings}
+      \field{title}{Learning to Rank by Maximizing AUC with Linear Programming}
+      \field{year}{2006}
+      \field{pages}{123\bibrangedash 129}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/IJCNN.2006.246669
+      \endverb
+    \endentry
+    \entry{brefeld}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=93fb40e6005e64fa3979a1015c1b6bb4}{%
+           family={Brefeld},
+           familyi={B\bibinitperiod},
+           given={Ulf},
+           giveni={U\bibinitperiod}}}%
+        {{hash=3a954fc182e5a18b0900ce293c0401ea}{%
+           family={Scheffer},
+           familyi={S\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{afe7bad8d3c65960e1b02b9821e7b9a6}
+      \strng{fullhash}{afe7bad8d3c65960e1b02b9821e7b9a6}
+      \strng{bibnamehash}{afe7bad8d3c65960e1b02b9821e7b9a6}
+      \strng{authorbibnamehash}{afe7bad8d3c65960e1b02b9821e7b9a6}
+      \strng{authornamehash}{afe7bad8d3c65960e1b02b9821e7b9a6}
+      \strng{authorfullhash}{afe7bad8d3c65960e1b02b9821e7b9a6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ROC Analysis in Machine Learning}
+      \field{title}{AUC Maximizing Support Vector Learning}
+      \field{year}{2005}
+    \endentry
+    \entry{fawcett}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9c15aa0b2a7683cefeaa12c991d0b1c2}{%
+           family={Fawcett},
+           familyi={F\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c15aa0b2a7683cefeaa12c991d0b1c2}
+      \strng{fullhash}{9c15aa0b2a7683cefeaa12c991d0b1c2}
+      \strng{bibnamehash}{9c15aa0b2a7683cefeaa12c991d0b1c2}
+      \strng{authorbibnamehash}{9c15aa0b2a7683cefeaa12c991d0b1c2}
+      \strng{authornamehash}{9c15aa0b2a7683cefeaa12c991d0b1c2}
+      \strng{authorfullhash}{9c15aa0b2a7683cefeaa12c991d0b1c2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Learning}
+      \field{month}{01}
+      \field{title}{ROC Graphs: Notes and Practical Considerations for Researchers}
+      \field{volume}{31}
+      \field{year}{2004}
+      \field{pages}{1\bibrangedash 38}
+      \range{pages}{38}
+    \endentry
+    \entry{hastie}{book}{}
+      \name{author}{3}{}{%
+        {{hash=0cb8fe4210baa81c4b0e67913b4d2768}{%
+           family={Hastie},
+           familyi={H\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=88eea600247d798f8b2ce0b2dc614492}{%
+           family={Tibshirani},
+           familyi={T\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=971cf69058b64a94326dea0f2a8bbcce}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Jerome},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{fullhash}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{bibnamehash}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{authorbibnamehash}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{authornamehash}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{authorfullhash}{7ca1bfe876d5e037b6aed69704221267}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{The elements of statistical learning: data mining, inference and prediction}
+      \field{year}{2009}
+      \verb{file}
+      \verb :Books\\HastieTibshiraniFriedman-09-Elements-of-Statistical-Learning-2nd-edition\\hastie_09_elements-of.statistical-learning.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb http://www-stat.stanford.edu/~tibs/ElemStatLearn/
+      \endverb
+      \verb{url}
+      \verb http://www-stat.stanford.edu/~tibs/ElemStatLearn/
+      \endverb
+      \keyw{inference mathmatics dataanalysis method clutering statistics}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
